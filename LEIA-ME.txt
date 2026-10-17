@@ -1,0 +1,13 @@
+NOVA VISION - SITE PORTFÓLIO DE FILMMAKER / VIDEOMAKER
+
+1. Abra esta pasta no VS Code.
+2. Abra index.html com Live Server (ou dê dois cliques para abrir no navegador).
+3. Em script.js, altere CONFIG.whatsapp e CONFIG.instagram.
+4. Em index.html, troque NOVA VISION, textos, serviços e depoimentos pelos seus dados.
+5. Substitua as URLs de imagens demonstrativas pelas suas fotos com autorização de uso.
+6. Para publicar, envie os três arquivos principais para o GitHub Pages ou outro host estático.
+
+Funcionalidades: menu responsivo, filtros do portfólio, animações ao rolar, FAQ e orçamento via WhatsApp.
+ATENÇÃO: fotos e depoimentos são ilustrativos. Não são trabalhos ou avaliações reais.
+O formulário não salva dados em servidor; ele apenas abre o WhatsApp com a mensagem pronta.
+Este projeto não possui painel administrativo, login nem upload de mídia.
